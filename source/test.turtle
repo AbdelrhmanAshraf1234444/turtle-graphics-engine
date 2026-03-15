@@ -1,0 +1,10 @@
+size w=300 h=300
+color pen=yellow bg=black
+pen down 90 90
+move forward 100
+turn right 90
+move forward 50
+turn right 90
+move forward 100
+turn right 90
+move forward 50
